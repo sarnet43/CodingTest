@@ -1,10 +1,10 @@
 # [level 0] 몫 구하기 - 120805 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=python3) 
 
 ### 성능 요약
 
-메모리: 72.2 MB, 시간: 0.01 ms
+메모리: 10.1 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 11일 08:24:25
+2024년 05월 19일 23:46:59
 
 ### 문제 설명
 
